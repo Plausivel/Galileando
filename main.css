@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+html {font-family: Ubuntu, sans-serif;}
+
+body {
+    min-width: 640px;
+    max-width: 1600px;
+
+    background: #f0f0f5;
+    
+    height: 100%;
+
+    }
+a {text-decoration: none;}
+
+:root {
+    --margin-color: #5d2e74; 
+    --primary-color: #34cb79;
+    
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+    font-family: Ubuntu;
+
+}
